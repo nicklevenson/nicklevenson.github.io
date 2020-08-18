@@ -1,11 +1,11 @@
 # Site settings
 author: Nick Levenson
-title: 
+title: Nick's Blog
 header-img: img/home-bg.png
 email: nicklevenson@gmail.com
 copyright_name: Nick Levenson
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A place to hear Nick's thoughts
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  nicklevenson
